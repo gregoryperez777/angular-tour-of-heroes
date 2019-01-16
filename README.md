@@ -9,3 +9,5 @@
 3. Execute the command: `npm install` to install the dependencies.
 4. Execute the command: `npm start` to run the application.
 5. Open the following URL in your browser [http://localhost:4200](http://localhost:4200).
+
+![image](https://github.com/gregoryperez777/angular-tour-of-heroes/blob/master/public/ImgProyect/tourheroeAngular.png)
